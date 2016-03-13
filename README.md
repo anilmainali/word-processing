@@ -1,7 +1,4 @@
-# word-processing
-How I prefer to use Microsoft Word with friends.
-
-It seems everyone has their own pet peeve when using Word.
+It seems everyone has their own pet peeve when using Microsoft Word.
 
 Here are mine.
 
@@ -13,11 +10,15 @@ So I prefer to use file names as version control.
 In file names I've learned to never use spaces to avoid other mangling them.
 The format of a file name:
 
+   ```
    Subject Subfile Version Date Sequence Initials .doc
+   ```
 
 Example:
 
+   ```
    Git_all_v09_2016.03.22a_wm.doc
+   ```
 
 The lower case "v" is short for version.
 Lower case because it makes the number following it easier to read than if a capital is used.
@@ -38,6 +39,9 @@ used on both Mac and Windows.
 
 Under the Finder of any version of Mac OS X, navigate to <strong>/Library/Fonts</strong>
 and drop downloaded font files there.
+
+BTW, Word needs to be restarted for it to recognize new fonts.
+
 
 ## Rename
 Word makes changes to files even if it's only opened and immediately closed.
@@ -81,4 +85,58 @@ The <strong>Clear Formatting</strong> at the top of the list I use a lot.
 
 There are way too many default styles, so I get rid of ones I don't use,
 and make up ones of my own.
+
+## Table of Contents
+I usually prefer to change an existing document rather than 
+starting from scratch.
+
+I think it helps to have a larger font for Heading1 and 2.
+
+If a heading has a different text (such as "ACTIVITY"),
+it helps for lower items to be indented.
+
+## Vertical Spacing
+
+I try to avoid blank lines of Normal style.
+
+Insert a page break at the front of each Heading 1 and 2.
+
+## My Styles
+
+I try to avoid using Normal on purpose
+because Word uses that for weird stuff.
+It's unavoidable in front of page breaks.
+
+* **Body** is the default.
+
+* **Action Step**
+
+* **PROTIP** (Best Practices)
+
+* **Bullet 1**
+
+* **Bullet 2**
+
+* **Coding**
+
+* **File Path**
+
+* **Heading 1, 2, 3, 4**
+
+* **Note**
+
+* **Picture**
+
+* **Remember**
+
+* **Table Column Heading**
+
+* **Table Contents**
+
+* **URL**
+
+* **Figure Caption**
+
+
+
 
