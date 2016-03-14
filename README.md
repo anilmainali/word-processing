@@ -55,6 +55,13 @@ I make it a habit to save files to a cloud server (Google Drive).
 
 A few seconds has saved me hours of rework and frustration.
 
+## Configure
+Autocorrect automatically capitalizes the beginning of 
+program commands, which is not helpful.
+
+So I turn them off in 
+menu Word | Preferences | AutoCorrect.
+
 ## Review
 As soon as I open a file, I click the Review tab.
 The default display is to show markup.
@@ -109,7 +116,7 @@ It's unavoidable in front of page breaks.
 
 * **Body** is the default.
 
-* **Action Step**
+* **Action Step** sequentially numbers steps for readers to take.
 
 * **PROTIP** (Best Practices)
 
@@ -138,5 +145,44 @@ It's unavoidable in front of page breaks.
 * **Figure Caption**
 
 
+## Bolding fonts
+An unfortunate aspect of Open Sans (and some other fonts) is that
+bolding is difficult to see.
+
+So we need to use a character style **Bold [PACKT]** instead
+of simply pressing control/command+B after highlighting.
+
+## Keyboard Shortcuts
+Word for Mac 2011 does not honor standard Mac keyboard shortcuts.
+Especially annoying are Mac keys for top and bottom of document
+(command + up and down arrow).
+
+Microsoft offers this sorry list of keyboard shortcuts:
+ 
+* https://support.office.com/en-us/article/Word-keyboard-shortcuts-c0ca851f-3d58-4ce0-9867-799df73666a7
+
+Where is the Page Down key on the Mac?
+
+* Create keyboard shortcuts in Office for Mac 2011
+   https://support.office.com/en-us/article/Create-or-delete-a-keyboard-shortcut-in-Office-for-Mac-2011-1796e9a2-3748-4cf0-b163-24a65479caa6#bmpp
+
+Fortunately, someone has stepped up:
+
+* http://www.osxkeyboardshortcuts.com/assets/Office-v.X-Mac-OS-X-Keyboard-Shortcuts.pdf
+
+Word for Mac 2011 and Word for Windows 2013
+
+## Copying and pasting
+If you copy text from one Word document and paste it in another 
+using Command/Ctrl+V, a style from the originating document
+may be created.
+
+So it's better to use <strong>Paste Special</strong> then
+select Unformatted Text.
+
+## Voice command
+It's tedious to select styles using the mouse.
+
+So I'm experimenting with voice command of Office applications.
 
 
