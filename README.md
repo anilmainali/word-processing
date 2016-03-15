@@ -186,6 +186,9 @@ may be created.
 So it's better to use <strong>Paste Special</strong> then
 select Unformatted Text.
 
+<img width="338" alt="word style return" src="https://cloud.githubusercontent.com/assets/300046/13789046/f5fd895e-eaa7-11e5-8cd4-669c50eec2d1.png">
+
+
 ## Voice command
 It's tedious to select styles using the mouse.
 
