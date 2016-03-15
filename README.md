@@ -34,8 +34,7 @@ Initials of the author is very important when collaborating.
 ## Fonts
 Fonts should be loaded before opening files since Word does substitutions without saying anything.
 
-I like the Open Sans Light font.
-Its use saves ink. But that's irrelevant.
+I like the Open Sans Light font which tends to save ink when printing although that's irrelevant.
 
 Open Sans font files have .ttf extension because they are TruType format
 used on both Mac and Windows.
@@ -53,6 +52,9 @@ rename it. Then I open that new file.
 
 ## Save it often
 I've had shed too many tears about lost work.
+If you click on Home and Options then Save, it will default to saving every 10 minutes.
+It that doesn't suit you, then save it more frequently to avoid losing your changes.
+You can change the location on where to save files to the drive.google directory from that screen.
 Before closing the screen and leaving it open,
 I make it a habit to save files to a cloud server (Google Drive).
 
