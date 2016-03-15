@@ -1,3 +1,6 @@
+You are at <a href="http://github.com/wilsonmar/word-processing/">
+http://github.com/wilsonmar/word-processing/</a>
+
 It seems everyone has their own pet peeve when using Microsoft Word.
 
 Here are mine.
@@ -120,9 +123,10 @@ It's unavoidable in front of page breaks.
 
 * **PROTIP** (Best Practices)
 
-* **Bullet 1**
+* **Bullet in 1, 2, 3** for each level of indent.
 
-* **Bullet 2**
+* **Commands** is what is typed into command lines such as Termainal.
+   This is bolded.
 
 * **Coding**
 
@@ -135,6 +139,8 @@ It's unavoidable in front of page breaks.
 * **Picture**
 
 * **Remember**
+
+* **Response** displays what is returned on the command line window.
 
 * **Table Column Heading**
 
