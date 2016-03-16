@@ -143,7 +143,7 @@ It's unavoidable in front of page breaks.
 
 * **Heading 1, 2, 3, 4**
 
-* **Note**
+* **Note** is indented and italicized.
 
 * **Picture**
 
