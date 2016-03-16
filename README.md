@@ -6,11 +6,11 @@ It seems everyone has their own pet peeve when using Microsoft Word.
 Here are mine.
 
 ## File name version control
-Word has its own versioning (in the Review tab) because 
+Word has its own versioning (in the Review tab) as
 it's just too scary to look into the complex markup under the Print view.
 So I prefer to use file names as version control.
 
-In file names I've learned to never use spaces to avoid other mangling them.
+In file names I've learned not to use spaces in order to avoid confusion.
 The format of a file name:
 
    ```
@@ -24,21 +24,21 @@ Example:
    ```
 
 The lower case "v" is short for version.
-Lower case because it makes the number following it easier to read than if a capital is used.
+Lower case because it makes the number following it easier to read as compared to capital.
 Obsessive, I know, but I'll go to my grave happier because of this ;)
 
 Date format is YYYY.MM.DD
-Dots are used within dates so they are not confused as something else.
+Dots are used within dates so that they should not be confused with something else.
 
 Initials of the author is very important when collaborating.
 
 ## Fonts
-Fonts should be loaded before opening files since Word does substitutions without saying anything.
-I like the Open Sans Light font which tends to save ink when printing although that's irrelevant.
+Fonts should be loaded before opening files since Word does substitutions automatically.
+I like the Open Sans Light font, which tends to save ink when printing, although that's irrelevant.
 
 To download fonts, visit https://www.google.com/fonts#UsePlace:use/Collection:Open+Sans
 Add a checkmark to all of the fonts on the page.
-The first one with be Open Sans, click Add to Collection which should download and install onto your machine.
+The first one will be Open Sans, click Add to Collection which should download and install onto your machine.
 
 Open Sans font files have .ttf extension because they are TruType format
 used on both Mac and Windows.
@@ -79,7 +79,7 @@ The default display is to show markup.
 I click Next to go through changes made in the previous version/edition.
 
 Then I click the little arrow next to the Accept icon and 
-<strong>Accept all changes in document</strong> which turns off the markups.
+<strong>Accept all changes in document</strong>, which turns off the markups.
 I can start editing with a clean slate.
 If I later need to see what was changed, I can run a Compare by clicking Review | Compare.
 
@@ -94,7 +94,7 @@ I usually have to drag the divider over a bit to show more text.
 
 On Windows from menu I clicked View | Navigation Pane and checked box (under Show section).
 
-I usually select Home ribbon so styles are visible.
+I usually select Home ribbon to make the styles visible.
 Sometimes the ribbon gets collapsed. 
 I then click the up/down arrow at the upper right to reveal it again.
 
