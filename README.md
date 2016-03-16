@@ -56,7 +56,7 @@ rename it. Then I open that new file.
 
 ## Save it often
 I've had shed too many tears about lost work.
-If you click on Home and Options then Save, it will default to saving every 10 minutes.
+If you click on File | Options | Save, it will default to saving every 10 minutes.
 It that doesn't suit you, then save it more frequently to avoid losing your changes.
 You can change the location on where to save files to the drive.google directory from that screen.
 Before closing the screen and leaving it open,
