@@ -27,14 +27,18 @@ The lower case "v" is short for version.
 Lower case because it makes the number following it easier to read than if a capital is used.
 Obsessive, I know, but I'll go to my grave happier because of this ;)
 
+Date format is YYYY.MM.DD
 Dots are used within dates so they are not confused as something else.
 
 Initials of the author is very important when collaborating.
 
 ## Fonts
 Fonts should be loaded before opening files since Word does substitutions without saying anything.
-
 I like the Open Sans Light font which tends to save ink when printing although that's irrelevant.
+
+To download fonts, visit https://www.google.com/fonts#UsePlace:use/Collection:Open+Sans
+Add a checkmark to all of the fonts on the page.
+The first one with be Open Sans, click Add to Collection which should download and install onto your machine.
 
 Open Sans font files have .ttf extension because they are TruType format
 used on both Mac and Windows.
@@ -64,8 +68,9 @@ A few seconds has saved me hours of rework and frustration.
 Autocorrect automatically capitalizes the beginning of 
 program commands, which is not helpful.
 
-So I turn them off in 
-menu Word | Preferences | AutoCorrect.
+On the MAC, I turn them off by clicking on menu Word | Preferences | AutoCorrect.
+On Windows, I turn them off by clicking on File | Options | Proofing | AutoCorrect
+            then turn off the options for Capitalize First Letter and Initial Capitals.
 
 ## Review
 As soon as I open a file, I click the Review tab.
@@ -74,20 +79,22 @@ The default display is to show markup.
 I click Next to go through changes made in the previous version/edition.
 
 Then I click the little arrow next to the Accept icon and 
-<strong>Accept all changes in document</strong>
-so I start editing with a clean slate.
-If I later need to see what was changed, I can run a Compare.
+<strong>Accept all changes in document</strong> which turns off the markups.
+I can start editing with a clean slate.
+If I later need to see what was changed, I can run a Compare by clicking Review | Compare.
 
-For use during editing, I set <strong>Tracking to Final</strong>.
+On MAC, For use during editing, I set <strong>Tracking to Final</strong>.
 
 I leave Track Changes to ON.
 
 ## On-screen TOC and Styles
-From the menu at the top View | Sidebar | Document Map Pane
+On MAC from menu at the top View | Sidebar | Document Map Pane
 puts a table of contents on the left.
 I usually have to drag the divider over a bit to show more text.
 
-I usually stay on the Home ribbon so styles are visible.
+On Windows from menu I clicked View | Navigation Pane and checked box (under Show section).
+
+I usually select Home ribbon so styles are visible.
 Sometimes the ribbon gets collapsed. 
 I then click the up/down arrow at the upper right to reveal it again.
 
