@@ -28,7 +28,7 @@ Lower case because it makes the number following it easier to read as compared t
 Obsessive, I know, but I'll go to my grave happier because of this ;)
 
 Date format is YYYY.MM.DD
-Dots are used within dates so that they should not be confused with something else.
+Dots are used within dates so that they are not confused with something else.
 
 Initials of the author is very important when collaborating.
 
