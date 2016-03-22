@@ -202,16 +202,16 @@ select Unformatted Text.
  Click on File > Options > Proofing > It will display a dialog box for Word options. This dialog box displays advanced options and Auto Correct options.
  You can manually replace the content by using Replace Text As you Type option.
   
-  ## Thesarus
+## Thesarus
   If you would like to know the meaning or synonym of any word, click on Review > Thesarus
   Copy the word and search it in the search bar, You will be presented with different meanings and synonyms. You can add custom dictionaries as well.
   
-  ## Security
+## Security
   You can protect the secure information in Word document by encrypting it with a password.
   Click on File> Info> Protect Document
   Select Encrypt with Password, Enter the password and your document will be secured.
   
-  ## Sticky Notes
+## Sticky Notes
   The clipboard options helps you to copy and paste multiple items.
   Home> Clipboard> Click the arrow, it will open the Clipboard
   
