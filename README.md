@@ -197,7 +197,24 @@ select Unformatted Text.
 
 <img width="338" alt="word style return" src="https://cloud.githubusercontent.com/assets/300046/13789046/f5fd895e-eaa7-11e5-8cd4-669c50eec2d1.png">
 
-
+## Auto Correct
+ The advanced options in Auto Correct helps to automatically correct your typo errors.
+ Click on File > Options > Proofing > It will display a dialog box for Word options. This dialog box displays advanced options and Auto Correct options.
+ You can manually replace the content by using Replace Text As you Type option.
+  
+  ## Thesarus
+  If you would like to know the meaning or synonym of any word, click on Review > Thesarus
+  Copy the word and search it in the search bar, You will be presented with different meanings and synonyms. You can add custom dictionaries as well.
+  
+  ## Security
+  You can protect the secure information in Word document by encrypting it with a password.
+  Click on File> Info> Protect Document
+  Select Encrypt with Password, Enter the password and your document will be secured.
+  
+  ## Sticky Notes
+  The clipboard options helps you to copy and paste multiple items.
+  Home> Clipboard> Click the arrow, it will open the Clipboard
+  
 ## Voice command
 It's tedious to select styles using the mouse.
 
